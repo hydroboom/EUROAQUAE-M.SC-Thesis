@@ -1,0 +1,13 @@
+netCDF4
+pandas
+numpy
+glob
+os
+sys
+matplotlib
+xarray
+geopandas
+rioxarray
+seaborn
+scikit-learn
+scipy
