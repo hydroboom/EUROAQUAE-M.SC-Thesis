@@ -9,7 +9,7 @@ Dataset: https://zenodo.org/records/10794443
 Paper: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002814
 Dataset: https://esgf-metagrid.cloud.dkrz.de/search
 
-# Project Description
+# Script Descriptions
 This repository contains all the files and code related to my research work. The thesis involves extensive data analysis and aims to provide a simple method for selecting representative year from a timeseries of climate model outputs. The following folders and codes are included in this repository:
 
 1. Extractor for FUMA: contains a IPYNB script with readme file for extracting data from Kristiansen et al (2024) dataset.
