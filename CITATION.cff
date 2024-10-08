@@ -1,0 +1,17 @@
+cff-version: 1.1.0
+message: "If you use this work, please cite it as below."
+title: "A NOVEL APPROACH TO SELECTING REPRESENTATIVE YEARS FOR CLIMATE CHANGE SCENARIOS: APPLICATION TO MODELLING OF AQUACULTURE IN THE NORTH SEA"
+version: "1.0.0"
+doi: "10.5281/zenodo.13145138"
+authors:
+  - family-names: "Islam"
+    given-names: "Tarannum Tabassum"
+repository-code: "https://github.com/hydroboom/EUROAQUAE-M.SC-Thesis"
+date-released: "2024-07-31"
+url: "https://github.com/hydroboom/EUROAQUAE-M.SC-Thesis/releases/tag/v1.0.0"
+keywords:
+  - hydrological modeling
+  - groundwater modeling
+  - aquaculture modeling
+  - climate change
+license: "CC-BY-4.0"
